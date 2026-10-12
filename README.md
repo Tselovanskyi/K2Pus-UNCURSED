@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+>This guide is OUTDATED, use the new user-friendly app to uncurse your K2+  
+> https://github.com/Tselovanskyi/Uncurser/releases/latest
+
+
 # K2Pus-UNCURSED
 
 This is a **STEP-BY-STEP** guide for making Creality K2 Plus less cursed.  
