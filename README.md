@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >This guide is OUTDATED, use the new user-friendly app to uncurse your K2+  
-> https://github.com/Tselovanskyi/Uncurser/releases/latest
+> https://github.com/Tselovanskyi/Uncurser
 
 
 # K2Pus-UNCURSED
